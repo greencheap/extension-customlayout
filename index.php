@@ -1,4 +1,12 @@
 <?php
 return [
-    'name' => 'extension-build'
+    'name' => 'customlayout',
+
+    'autoload' => [
+        'GreenCheap\\CustomLayout\\' => 'src'
+    ],
+
+    'widgets' => [
+        'widgets/customlayout.php'
+    ]
 ];

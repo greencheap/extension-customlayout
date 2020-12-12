@@ -1,9 +1,9 @@
 {
-    "name": "greencheap/extension-build",
+    "name": "greencheap/customlayout",
     "type": "greencheap-extension",
     "version": "1.0.0",
-    "title": "GreenCheap Build Extension",
-    "description": "GreenCheap paket build taslağı, bu taslak ile kurallara uygun paket oluşturabilirsiniz",
+    "title": "Custom Layout",
+    "description": "Custom Layout",
     "license": "MIT",
     "authors": [
         {

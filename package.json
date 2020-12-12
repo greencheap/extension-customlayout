@@ -1,5 +1,5 @@
 {
-    "name": "extension-build",
+    "name": "customlayout",
     "scripts": {
         "webpack": "webpack --colors --config webpack.dev.js",
         "webpack-watch": "webpack --watch --colors --config webpack.dev.js",
